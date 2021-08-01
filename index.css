@@ -1,0 +1,70 @@
+.Myanchor {
+    margin-top: 20px;
+    margin-bottom: 16px;
+    text-align: right;
+    color: blue;
+ }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 109px;
+    width: 272;
+}
+.Mytext {
+    display: block;  
+    height: 40px;
+    width: 562px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: auto;
+    padding-left: auto;
+    margin-top: 25px;
+    border: lightgray solid 1px;
+    outline: none;
+    font-size: 21px;
+    border-radius: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Mysubmit {
+    
+    background-color:  rgb(245,245,245);
+    margin-top: 26px;
+    height: 33px;
+    width: 130px;
+    padding: 2px 2px 2px 2px;
+    font-size: 15px;
+    border: transparent;
+    
+}
+.Mypg {
+    display: inline;
+}
+
+.Myform {
+    text-align: center;
+}
+label {
+     display: inline-block;
+     width: 200px;
+     
+     margin-left: 30px;
+}
+.Myadv {
+    width: 400px;
+    height: 24px;
+    border: 0.8px solid lightgray;
+    
+}
+
+.MYsubmit{
+    display: block;
+    background-color: rgb(58, 141, 250);
+    color: white;
+    margin-left: 650px;
+    border-radius: 3px;
+    font-weight: 500;
+    font-size: 13px;
+    
+}
